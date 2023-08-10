@@ -46,7 +46,7 @@ Kang, W., Alam, J., and Fathan, A., "Investigation on instance mixup regularizat
 
 Kang, W., Alam, J., and Fathan, A., "Attentive activation function for improving end-to-end spoofing countermeasure systems," in arXiv, May, 2022 [https://arxiv.org/pdf/2205.01528.pdf]. 
 
-Kang, W., Alam, J., and Fathan, A., "Robust Speech Representation Learning via Flow-based Embedding Regularization," in arXiv, 7 December 2021 [https://arxiv.org/pdf/2112.03454.pdf]. ar
+Kang, W., Alam, J., and Fathan, A., "Robust Speech Representation Learning via Flow-based Embedding Regularization," in arXiv, 7 December 2021 [https://arxiv.org/pdf/2112.03454.pdf].
 
 Kang, W., Alam, J., and Fathan, A., "Hybrid network with multi-level global-local statistics pooling for robust text-independent speaker recognition," accepted for publication in the Proc. of Automatic Speech Recognition and Understanding (ASRU), December 15-17, 2021.
 
