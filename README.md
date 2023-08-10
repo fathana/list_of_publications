@@ -1,4 +1,4 @@
-# list_of_publications
+# A list of publications and contributions:
 
 Fathan, A. and Alam, J., "An Analytic Study on Clustering Driven Self-Supervised Speaker Verification," submitted to Pattern Recognition Letters, Elsevier, July, 2023.
 
