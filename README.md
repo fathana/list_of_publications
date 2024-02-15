@@ -8,7 +8,7 @@ A. Fathan, J. Alam, X. Zhu, "Multi-task Learning over Mixup Variants for the Spe
 
 MS. Alam, A. Fathan, J. Alam, "Audio DeepFake Detection Employing Multiple Parametric Exponential Linear Units" accepted for publication in Proc. of the 25th SPECOM conference, DHARWAD, INDIA, 29th November - 2nd December 2023.
 
-Fathan, A. and Alam, J., "An Analytic Study on Clustering Driven Self-Supervised Speaker Verification," submitted to Pattern Recognition Letters, Elsevier, July, 2023.
+Fathan, A. and Alam, J., "An Analytic Study on Clustering Driven Self-Supervised Speaker Verification," in Pattern Recognition Letters, Elsevier, July, 2023.
 
 Kang, W., Alam, J., and Fathan, A., "l-mix: a latent-level instance mixup regularization for robust self-supervised speaker representation learning," in the IEEE Journal of Selected Topics in Signal Processing (JSTSP), August, 2022, doi: 10.1109/JSTSP.2022.3196562. online: https://ieeexplore.ieee.org/document/9850385 
 
