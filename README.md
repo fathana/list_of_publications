@@ -85,3 +85,5 @@ Kang, W., Alam, J., and Fathan, A.,  "CRIM's System Description for the ASVSpoof
 Kang, W., Alam, J., and Fathan, A., "Hybrid network with multi-level global-local statistics pooling for robust text-independent speaker recognition", accepted for publication in the Proc. of Automatic Speech Recognition and Understanding (ASRU), December 15-17, 2021.
 
 Alam, J., Boulianne, G., Gupta, V., A., Fathan, "An Ensemble Approach to Unsupervised Anomalous Sound Detection", in DCASE 2020 Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring Challenge Workshop, November 2020.
+
+Abderrahim Fathan, Erick Delage, "Deep reinforcement learning for optimal stopping with application in financial engineering", https://arxiv.org/abs/2105.08877. 2021.
