@@ -16,6 +16,8 @@ A. Fathan, X. Zhu, J. Alam, "An investigative study of the effect of several reg
 
 A. Fathan, J. Alam, "Self-supervised Speaker Verification Employing a Novel Clustering Algorithm", accepted for publication in IEEE ICASSP, Seoul, South Korea, 14-19 April 2024.
 
+A. Fathan, J. Alam, "CAMSAT: Augmentation Mix and Self-Augmented Training Clustering for Self-Supervised Speaker Recognition", 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Taipei, Taiwan. 16-20 December 2023.
+
 A. Fathan, X. Zhu, J. Alam, "An efficient clustering algorithm for self-supervised speaker recognition", accepted for publication in the NeurIPS 2023 Efficient Natural Language and Speech Processing (ENLSP) Workshop, New Orleans, Louisiana (USA), December 2023.
 
 A. Fathan, J. Alam, "Self-supervised Speaker Verification Employing Augmentation Mix and Self-augmented Training-Based Clustering", accepted for publication in Proc. of the 25th SPECOM conference, DHARWAD, INDIA, 29th November - 2nd December 2023.
